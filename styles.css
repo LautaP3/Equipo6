@@ -8,6 +8,10 @@ body {
     height: 400px;
 }
 
+#parrafo1{
+            background-color: blue;
+}
+
 .link-button {
     text-decoration: none;
     color: black;
