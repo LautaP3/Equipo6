@@ -19,3 +19,15 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+
+h1 {
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 5px;
+    font-size: 22px;
+    background-color: #055216;
+    border-radius: 13px;
+
+    
+}
