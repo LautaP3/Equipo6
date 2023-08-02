@@ -21,6 +21,12 @@ body {
 }
 
 
+
+
+p {
+    text-align: center;
+}
+
 h1 {
     display: table;   
     margin: 0px auto 0px auto;
@@ -31,3 +37,4 @@ h1 {
 
     
 }
+
